@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7613e903-0c5a-4127-ba59-2bb04ff9dedf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/repository/car_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/car_repo.py" afterDir="false" />
-    </list>
+    <list default="true" id="7613e903-0c5a-4127-ba59-2bb04ff9dedf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
